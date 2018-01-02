@@ -1,0 +1,19 @@
+{
+  "name": "hl-modal-information",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Julio Hurtado <juliohurtado.backend@gmail.com> (https://juliohurtado.github.io)",
+  "license": "MIT",
+
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliohurtado/hl-modal-information.git"
+  },
+
+  "dependencies": {
+    
+  }
+
+}
